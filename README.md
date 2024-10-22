@@ -1,5 +1,5 @@
 # bianos
-# HAKETTİ ABİ!!
+ HAKETTİ ABİ!!
 <pre align="center">
-<img src="./text_gif.gif />
+<img src="text_gif.gif" />
 </pre>
