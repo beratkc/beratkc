@@ -1,2 +1,2 @@
 ### 🚧 Yakında Burada...
-![Coming Soon](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNhZjE1OWQ3NjljYTM0YTUwZmFmNGI2YWYyYjA0NzExYTYwNzg3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8RxjYjY3U2y9T5Jq/giphy.gif)
+![1](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2g4Mm91aTBlY2JneHk4YjNkdWN1djRkaXM4cGRoM3Y1MG96OXYxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRLGB7eWATEI1Ik/giphy.gif)
